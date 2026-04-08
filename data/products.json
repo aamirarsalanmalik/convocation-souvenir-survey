@@ -1,0 +1,31 @@
+{
+  "Water Bottle": {
+    "price": 1200,
+    "description": "Official convocation water bottle sample.",
+    "main_image": "images/water_bottle_main.png",
+    "designs": {
+      "Design A": "images/water_bottle_1.png",
+      "Design B": "images/water_bottle_2.png",
+      "Design C": "images/water_bottle_3.png"
+    }
+  },
+  "Tote Bag": {
+    "price": 800,
+    "description": "Official convocation tote bag sample.",
+    "main_image": "images/tote_bag_main.png",
+    "designs": {
+      "Design A": "images/tote_bag_1.png",
+      "Design B": "images/tote_bag_2.png",
+      "Design C": "images/tote_bag_3.png"
+    }
+  },
+  "Mug": {
+    "price": 650,
+    "description": "Official convocation mug sample.",
+    "main_image": "images/mug_main.png",
+    "designs": {
+      "Design A": "images/mug_1.png",
+      "Design B": "images/mug_2.png"
+    }
+  }
+}
